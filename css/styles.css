@@ -12,6 +12,22 @@ body {
 }
 .video{
     display: flex;
-    justify-content: end;
+
     
+}
+.descripciones{
+   display: flex; 
+  
+
+}
+.parrafo2{
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 200%;
+}
+.barto{
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 200%; 
+}
+h1{
+    font-family: 'Gloria Hallelujah', cursive;
 }
