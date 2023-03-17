@@ -5,6 +5,12 @@ body {
     margin: 0;
     padding: 0;
     background-color:#FFD90F;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 20px;
+    
+}
+.resaltar:hover{
+    color: aqua;
 }
 .parrafo{
     font-family: 'Gloria Hallelujah', cursive;
@@ -30,4 +36,9 @@ body {
 }
 h1{
     font-family: 'Gloria Hallelujah', cursive;
+}
+.redes{
+    width: 600px;
+    height: auto;
+    justify-content: end;
 }
