@@ -4,7 +4,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color:#941010;
+    background-color:#bb1919;
     font-family: 'Teko', sans-serif;
     font-size: 20px;
     
@@ -94,4 +94,9 @@ h1{
 .container2{
   width: 100%;
 
+}
+.texto{
+  text-align: center;
+  justify-content: center;
+  color: aliceblue;
 }
