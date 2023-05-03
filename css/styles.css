@@ -4,16 +4,16 @@
 body {
     margin: 0;
     padding: 0;
-    background-color:#FFD90F;
-    font-family: 'Gloria Hallelujah', cursive;
+    background-color:#941010;
+    font-family: 'Teko', sans-serif;
     font-size: 20px;
     
 }
 .resaltar:hover{
-    color: aqua;
+    color: rgb(255, 2, 65);
 }
 .parrafo{
-    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Teko', sans-serif;
     font-size: 200%;
 }
 .video{
@@ -27,15 +27,15 @@ body {
 
 }
 .parrafo2{
-    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Teko', sans-serif;
     font-size: 200%;
 }
 .barto{
-    font-family: 'Gloria Hallelujah', cursive;
+    font-family:'Teko', sans-serif;
     font-size: 200%; 
 }
 h1{
-    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Teko', sans-serif;
 }
 .redes{
     width: 600px;
@@ -44,4 +44,54 @@ h1{
 }
 .m{
     width: 100%;
+}
+.boton {
+    position: absolute;
+    font-family:'Teko', sans-serif;
+    font-size: 210%;
+    left: 100px;
+    top: 550px;
+    height:100px;
+    width: 200px;
+    z-index: 1;
+  }
+  .ilustracion {
+    position: absolute;
+    font-family:'Teko', sans-serif;
+    font-size:200%;
+    left: 185px;
+    top: 500px;
+    height:100px; 
+    width: 150px;
+    z-index: 1;
+  }
+  .web {
+    position: absolute;
+    font-family:'Teko', sans-serif;
+    font-size:210%;
+    left: 620px;
+    top: 500px;
+    height:100px;
+    width: 150px;
+    z-index: 1;
+  }
+  .hoja {
+    position: absolute;
+    font-family:'Teko', sans-serif;
+    font-size: 180%;
+    left: 1020px;
+    top: 500px;
+    height:100px;
+    width: 150px;
+    z-index: 1;
+  }
+  .classrowhabilidades {
+    font-family:'Teko', sans-serif;
+}
+.yopi{
+  text-align: center;  
+}
+.container2{
+  width: 100%;
+
 }
